@@ -1,0 +1,6 @@
+"","fdi_tech_gdp_w","IdealPointDistance","agree","ln_gdp_pc","ln_trade"
+"fdi_tech_gdp_w","1","","","",""
+"IdealPointDistance","-0.035","1","","",""
+"agree","0.073","-0.878","1","",""
+"ln_gdp_pc","0.335","-0.544","0.513","1",""
+"ln_trade","0.347","-0.047","0.086","0.404","1"
