@@ -85,12 +85,16 @@ Finance and Mining FDI are used as placebo sectors. Under country fixed effects:
 ## Visualizations
 
 **Figure 1** Bimodal distribution of UN voting alignment across 58 countries (Western Europe cluster ≈ IPD 1.5; Global South/BRICS cluster ≈ IPD 2.9)
+![Figure 1a](figure1a_ipd_distribution.png)
 
 **Figure 2** IPD coefficient progression across OLS → Country FE → Two-Way FE, showing sign reversal and stabilization of the negative alignment effect
+![Figure 5](figure5_coef_plot.png)
 
 **Figure 3** Mean U.S. Science & Tech FDI over time (% of GDP) and average UN voting alignment trend (1999–2024)
+![Figure 4a](figure4a_fdi_trend.png)
 
 **Figure 4** IPD coefficient by sector (Science & Tech vs. Finance vs. Mining), showing sector-specificity of the alignment effect
+![Figure 6](figure6_sector_comparison.png)
 
 ---
 
