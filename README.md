@@ -85,7 +85,7 @@ Finance and Mining FDI are used as placebo sectors. Under country fixed effects:
 ## Visualizations
 
 **Figure 1** Bimodal distribution of UN voting alignment across 58 countries (Western Europe cluster ≈ IPD 1.5; Global South/BRICS cluster ≈ IPD 2.9)
-![Figure 1a](figure1a_ipd_distribution.png)
+![Figure 1a](outputs/figure1a_ipd_distribution.png)
 
 **Figure 2** IPD coefficient progression across OLS → Country FE → Two-Way FE, showing sign reversal and stabilization of the negative alignment effect
 ![Figure 5](figure5_coef_plot.png)
