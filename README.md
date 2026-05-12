@@ -100,9 +100,9 @@ Finance and Mining FDI are used as placebo sectors. Under country fixed effects:
 
 ## Limitations & Future Work
 
-- **Reverse causality** — large U.S. tech investment may itself shift a country's UN voting behavior; an instrumental variables approach (e.g., rotating UN Security Council membership) would address this
-- **Non-random missingness** — BEA suppresses small-cell observations, likely excluding lower-alignment countries and creating upward bias in the alignment effect
-- **Alignment measure scope** — UN ideal point scores reflect all resolutions, not technology-specific policy positions
+- **Reverse causality** :large U.S. tech investment may itself shift a country's UN voting behavior; an instrumental variables approach (e.g., rotating UN Security Council membership) would address this
+- **Non-random missingness** : BEA suppresses small-cell observations, likely excluding lower-alignment countries and creating upward bias in the alignment effect
+- **Alignment measure scope** : UN ideal point scores reflect all resolutions, not technology-specific policy positions
 
 **Proposed extensions:** IV strategy using rotating Security Council membership; firm-level analysis distinguishing intensive vs. extensive margin effects; post-2021 friend-shoring acceleration test
 
