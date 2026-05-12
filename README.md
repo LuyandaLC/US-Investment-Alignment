@@ -11,7 +11,7 @@
 
 ## Overview
 
-This paper empirically tests the **"friend-shoring" hypothesis** — the assumption embedded in U.S. policy (CHIPS Act 2022, FIRRMA 2018) that political alignment attracts technology Foreign Direct Investment. Using an unbalanced panel of **58 countries observed annually from 1999 to 2024**, I find that geopolitical alignment with the United States, measured by UN General Assembly voting similarity, is **robustly and negatively associated with ideal point distance** from the U.S. — meaning closer allies receive systematically more U.S. Science & Technology FDI as a share of their GDP.
+This paper empirically tests the **"friend-shoring" hypothesis** : the assumption embedded in U.S. policy (CHIPS Act 2022, FIRRMA 2018) that political alignment attracts technology Foreign Direct Investment. Using an unbalanced panel of **58 countries observed annually from 1999 to 2024**, I find that geopolitical alignment with the United States, measured by UN General Assembly voting similarity, is **robustly and negatively associated with ideal point distance** from the U.S., meaning closer allies receive systematically more U.S. Science & Technology FDI as a share of their GDP.
 
 Critically, **no equivalent effect is found in Finance or Mining**, suggesting this is a strategic, sector-specific dynamic rather than a general feature of U.S. outward investment.
 
@@ -19,9 +19,9 @@ Critically, **no equivalent effect is found in Finance or Mining**, suggesting t
 
 ## Key Finding
 
-> A one-unit decrease in UN Ideal Point Distance (greater alignment) is associated with an increase of **0.150 to 0.184 percentage points of GDP** in U.S. Science & Technology FDI — approximately a **48% increase relative to the sample mean** — significant under both country fixed effects (p < 0.05) and two-way fixed effects (p < 0.05).
+> A one-unit decrease in UN Ideal Point Distance (greater alignment) is associated with an increase of **0.150 to 0.184 percentage points of GDP** in U.S. Science & Technology FDI, approximately a **48% increase relative to the sample mean**, significant under both country fixed effects (p < 0.05) and two-way fixed effects (p < 0.05).
 
-A naive OLS estimate produces the opposite sign — a methodological artifact driven by the strong negative correlation between ideal point distance and GDP per capita (r = −0.54). This sign reversal is itself a key diagnostic result, demonstrating why within-country fixed effects are essential for credible identification in cross-country FDI research.
+A naive OLS estimate produces the opposite sign, a methodological artifact driven by the strong negative correlation between ideal point distance and GDP per capita (r = −0.54). This sign reversal is itself a key diagnostic result, demonstrating why within-country fixed effects are essential for credible identification in cross-country FDI research.
 
 ---
 
@@ -84,13 +84,13 @@ Finance and Mining FDI are used as placebo sectors. Under country fixed effects:
 
 ## Visualizations
 
-**Figure 1** — Bimodal distribution of UN voting alignment across 58 countries (Western Europe cluster ≈ IPD 1.5; Global South/BRICS cluster ≈ IPD 2.9)
+**Figure 1** Bimodal distribution of UN voting alignment across 58 countries (Western Europe cluster ≈ IPD 1.5; Global South/BRICS cluster ≈ IPD 2.9)
 
-**Figure 2** — IPD coefficient progression across OLS → Country FE → Two-Way FE, showing sign reversal and stabilization of the negative alignment effect
+**Figure 2** IPD coefficient progression across OLS → Country FE → Two-Way FE, showing sign reversal and stabilization of the negative alignment effect
 
-**Figure 3** — Mean U.S. Science & Tech FDI over time (% of GDP) and average UN voting alignment trend (1999–2024)
+**Figure 3** Mean U.S. Science & Tech FDI over time (% of GDP) and average UN voting alignment trend (1999–2024)
 
-**Figure 4** — IPD coefficient by sector (Science & Tech vs. Finance vs. Mining), showing sector-specificity of the alignment effect
+**Figure 4** IPD coefficient by sector (Science & Tech vs. Finance vs. Mining), showing sector-specificity of the alignment effect
 
 ---
 
